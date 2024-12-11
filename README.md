@@ -1,2 +1,2 @@
 # WebProject1
-Shopping list
+Shopping list where you can add more items.
